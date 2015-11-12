@@ -5,70 +5,12 @@
 <string name="hello_round">Hello Round World!</string>
 <string name="hello_square">Hello Square World!</string>
 <string name="hello_world">Hello world!</string>
-<string name="title_activity_watch_view_stub">Watch View Stub Demo</string>
 
-<!-- Demo items -->
-<string name="demo_item_2d_picker">2D Picker Demo</string>
-<string name="demo_item_bad_layout">Bad Layout Demo</string>
-<string name="demo_item_box_inset">BoxInset Demo</string>
-<string name="demo_item_card_frame">CardFrame Demo</string>
-<string name="demo_item_card_fragment">CardFragment Demo</string>
-<string name="demo_item_card_scrollview">CardScrollView Demo</string>
-<string name="demo_item_delayed_confirmation_view">DelayedConfirmationView Demo</string>
-<string name="demo_item_dismiss_overlay_view">DismissOverlayView Demo</string>
-<string name="demo_item_watch_view_stub">WatchViewStub Demo</string>
 
-<!-- 2D picker names -->
-<string name="picker_drax">Drax</string>
-<string name="picker_gamora">Gamora</string>
-<string name="picker_groot">Groot</string>
-<string name="picker_rocket">Rocket</string>
-<string name="picker_star_lord">Star Lord</string>
 
-<!-- 2D picker quotes -->
-<string name="picker_drax_quote_1">NOTHING goes over my head!... My reflexes are too fast, I would catch it.</string>
-<string name="picker_gamora_quote_1">Whatever nightmares the future holds are but dreams compared to what\'s behind me.</string>
-<string name="picker_groot_quote_1">I am Groot.</string>
-<string name="picker_rocket_quote_1">Ain\'t no thing like me, except me!</string>
-<string name="picker_star_lord_quote_1">I come from Earth, a planet of outlaws. My name is Peter Quill. There\'s one other name you may know me by. Star-Lord.</string>
-<string name="show_image">Show Image Activity</string>
-
-<!-- Confirmation message -->
-<string name="trigger_button_text">Launch the Nukes?</string>
-<string name="message_canceled">Canceled!</string>
-<string name="message_confirmed">Confirmed!</string>
-
-<!-- Dismiss overlay message -->
-<string name="dismiss_intro_text">Long press to dismiss this activity.</string>
-
-<!-- WatchViewStub demo -->
 <string name="square_stub_text">Square Layout</string>
 <string name="round_stub_text">Round Layout</string>
 
-<!-- CardFrame demo -->
-<string name="card_frame_text_1">Sample text 1</string>
-<string name="card_frame_text_2">Sample text 2</string>
-<string name="card_frame_text_3">Sample text 3</string>
 
-<!-- CardFragment demo -->
-<string name="card_fragment_title">Card title</string>
-<string name="card_fragment_text">Card text</string>
-
-<!-- Watch Face demo -->
-<string name="temperature_name">Temperature Watch Face</string>
-<string name="hi">HI: </string>
-<string name="lo">LO: </string>
-<string name="unknown">\?</string>
-<string name="degree">%d°</string>
-<string name="temperature_config_name">Digital temperature watch face config</string>
-<string name="temperature_units">Temperature Units</string>
-<string name="fahrenheit">Fahrenheit</string>
-<string name="celsius">Celsius</string>
-<string name="default_city">Minneapolis, MN</string>
-
-<string-array name="temp_unit_array">
-    <item>@string/fahrenheit</item>
-    <item>@string/celsius</item>
-</string-array>
 
 </resources>
