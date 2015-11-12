@@ -1,0 +1,34 @@
+{
+"Albums":[
+{
+"Albumname": "Drake",
+"image":"R.drawable.drax",
+"tracks":
+{
+"track": "track1",
+"track": "track2",
+"track": "track3"
+}
+},
+{
+"Albumname": "Rihana",
+"image":"R.drawable.gamora",
+"tracks":
+{
+"track": "track1",
+"track": "track2",
+"track": "track3"
+}
+},
+{
+"Albumname": "Eminem",
+"image":"R.drawable.groot",
+"tracks":
+{
+"track": "track1",
+"track": "track2",
+"track": "track3"
+}
+}
+]
+}
